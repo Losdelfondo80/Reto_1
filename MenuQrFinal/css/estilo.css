@@ -1,0 +1,285 @@
+.texto { font-family: Brush Script MT, cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Brush Script MT, cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Brush Script MT, cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Brush Script MT, cursive; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Brush Script MT, cursive; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px;}
+
+body{
+    background-color: rgb(196, 95, 95);
+    height: 100vw;
+}
+
+.logo{
+    display: block;
+    margin-left: 14vw;
+    margin-top: -4vw;
+    width: 20vw;
+    border: solid 1vw rgb(156, 1, 1);
+    position: absolute;
+}
+
+.divprincipal{
+    display: flex;
+    background-color: white;
+    margin: 6vw;
+    padding-top: 15vw;
+    border: solid 1vw rgb(156, 1, 1);
+    height: 140vw;
+    width: 85vw;
+    
+}
+
+#titulo{
+    display: flex;
+    flex: auto;
+    font-size: 4vw;
+    margin-left: 32vw;
+    margin-top: -10vw;
+    text-shadow: 0.3vw 0.3vw rgb(196, 95, 95);
+    max-height: 4vw;
+    position: absolute;
+}
+
+#Elementos1{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+#Elementos2{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 9.75vw;
+    padding-right: 9.75vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+#Elementos3{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 9.1vw;
+    padding-right: 9.1vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+#Elementos4{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 10.5vw;
+    padding-right: 10.5vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+#Elementos5{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 11vw;
+    padding-right: 11vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+#Elementos6{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 10.2vw;
+    padding-right: 10.2vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+#Elementos7{
+    display: flex;
+    max-height: 4vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    position: absolute;
+    background-color: black;
+    color: white;
+    
+}
+
+.divsecundario{
+    display: flex;
+    position: absolute;
+    width: 95%;
+    margin: 2.5%;
+    max-height: 31vw;
+    max-width: 35vw;
+}
+
+.TercerDiv{
+    display: flex;
+    position: absolute;
+    padding-top: 29vw;
+    width: 80vw;
+    height: 80vw;
+    margin: 2.5%;
+}
+
+.CuartoDiv{
+    display: flex;
+    position: absolute;
+    padding-top: 41vw;
+    width: 80vw;
+    height: 80vw;
+    margin: 2.5%;
+}
+
+.QuintoDiv{
+    display: flex;
+    position: absolute;
+    padding-top: 54vw;
+    width: 80vw;
+    height: 80vw;
+    margin: 2.5%;
+}
+
+.SextoDiv{
+    display: flex;
+    position: absolute;
+    padding-top: 70vw;
+    width: 80vw;
+    height: 80vw;
+    margin: 2.5%;
+}
+
+.SeptimoDiv{
+    display: flex;
+    position: absolute;
+    padding-top: 82vw;
+    width: 80vw;
+    height: 80vw;
+    margin: 2.5%;
+}
+
+.OctavoDiv{
+    display: flex;
+    position: absolute;
+    padding-top: 100vw;
+    width: 80vw;
+    height: 80vw;
+    margin: 2.5%;
+}
+
+.comida{
+    display: block;
+    position: absolute;
+    margin-left: 37vw;
+    width: 42vw;
+    height: 130vw;
+    border-radius: 2vw;
+    border: solid 1vw rgb(156, 1, 1);
+}
+
+.lista1{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
+
+.lista2{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
+
+.lista3{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
+
+.lista4{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
+
+.lista5{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
+
+.lista6{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
+
+.lista7{
+    display: inline-block;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: -1vw;
+    height: 24vw;
+    font-size: 1.2vw;
+    max-width: 29vw;
+    max-height: 24vw;
+}
